@@ -13,7 +13,7 @@ The dataset used for this project contains two main columns:
 - `sentiment`: This column contains the sentiment labels (e.g., positive, negative, neutral).
 - `text`: This column contains the text of financial news articles.
 
-You can find the dataset used in this project [here](link_to_dataset).
+You can find the dataset used in this project all_data.csv
 
 ## Project Structure
 
@@ -29,5 +29,3 @@ The project is organized into the following main sections:
 
 4. **Deployment (Optional)**: If desired, the model can be deployed for real-time predictions via a web application or API.
 
-
-   ```
